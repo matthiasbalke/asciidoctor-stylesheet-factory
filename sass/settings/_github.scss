@@ -1,4 +1,4 @@
-$base-font-size: 15px;
+$base-font-size: 20px;
 @import "defaults";
 
 // Settings
@@ -22,9 +22,9 @@ $header-font-weight: bold;
 $sect-divider-size: 0;
 $subheader-font-color: #777;
 
-$h1-font-size: emCalc(30px);
-$h2-font-size: emCalc(24px);
-$h3-font-size: emCalc(18px);
+$h1-font-size: emCalc(35px);
+$h2-font-size: emCalc(29px);
+$h3-font-size: emCalc(23px);
 $h4-font-size: 1em;
 $h5-font-size: 1em;
 $h6-font-size: 1em;
@@ -60,7 +60,7 @@ $anchor-text-decoration-hover: underline;
 // Inline Code
 
 $code-font-family: Monaco, 'DejaVu Sans Mono', 'Courier New', monospace;
-$code-font-size: emCalc(13px);
+$code-font-size: emCalc(18px);
 $code-color: #666;
 $code-font-weight: normal;
 $code-padding: 1px 5px 1px 5px;
@@ -71,11 +71,11 @@ $code-bg-color: transparent;
 
 $pre-bg: #333;
 $pre-font-color: white;
-$pre-font-size: emCalc(13px);
+$pre-font-size: emCalc(20px);
 $pre-border-color: #ddd;
 $pre-border-style: solid;
 $pre-border-size: 2px;
-$pre-padding: emCalc(10px);
+$pre-padding: emCalc(15px);
 
 // Panels
 
@@ -91,4 +91,4 @@ $paragraph-line-height: 1.4;
 // Tables
 
 $table-line-height: 1.4;
-$table-row-font-size: emCalc(12px);
+$table-row-font-size: emCalc(17px);
